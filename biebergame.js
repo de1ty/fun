@@ -30,5 +30,5 @@ if (userAnswer = "yes") {
 }
 else {
     //do no
-    console.log("Oh no! Bieber shakes his head and sings 'I set a pace, so I can race without pacing. also he has a heart attack and dies'");
+    console.log("Oh no! Bieber shakes his head and sings 'I set a pace, so I can race without pacing!'Then after that he collapsed into the heap and the announcer said 'he is now dead of tachycardia from too much cocaine use. Let that be a lesson to you and everyone who wants to immigrate from Canada. Illuminati!' Then the announcer was shot and the person who made this game decided to retire to the carribean under threat of assassination. She also eats french fries slowly to savor all the flavor.");
 }
