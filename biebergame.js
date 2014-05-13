@@ -30,5 +30,5 @@ if (userAnswer = "yes") {
 }
 else {
     //do no
-    console.log("Oh no! Bieber shakes his head and sings 'I set a pace, so I can race without pacing.'");
+    console.log("Oh no! Bieber shakes his head and sings 'I set a pace, so I can race without pacing. also he has a heart attack and dies'");
 }
